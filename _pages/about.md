@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am a junior undergraduate from University of Science, VNU-HCM"
+title: "Hello there, stranger! I am Huu-Nghia H. Nguyen. I am a junior undergraduate from University of Science, VNU-HCM"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
