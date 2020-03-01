@@ -20,7 +20,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/portrait-5x5.jpg
+* Profile image (can set in _config.yml): 
 
 ## Tips and hints
 
