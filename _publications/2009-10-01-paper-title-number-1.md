@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Towards a Robust Wi-Fi-based Fall Detection System with Adversarial Data Augmentation"
 collection: publications
 permalink: /publication/wifi-ada
 excerpt: ''
