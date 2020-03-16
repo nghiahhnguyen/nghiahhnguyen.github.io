@@ -16,7 +16,7 @@ Education
 Work experience
 ======
 * Summer 2020: Research Intern
-  * Ecole polytechnique fédérale de Lausanne (EPFL)
+  * Ecole Polytechnique Fédérale de Lausanne (EPFL)
   <!-- * Duties included: Tagging issues -->
   * Supervisor: Professor Karl Aberer
 
