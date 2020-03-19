@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Intern
+* Summer 2020: Research Intern (Cancelled due to COVID-2019)
   * École Polytechnique Fédérale de Lausanne (EPFL)
   <!-- * Duties included: Tagging issues -->
   * Supervisor: Professor Karl Aberer
@@ -34,7 +34,7 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-*[Find a more detailed CV here](http://huunghia160799.github.io/files/CV.pdf)
+**[Find a more detailed CV here](http://huunghia160799.github.io/files/CV.pdf)**
 
 Publications
 ======
