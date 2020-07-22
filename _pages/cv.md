@@ -44,16 +44,16 @@ Publications
 
 Achievements:
 ======
-4th prize in Vietnam National Olympiad for Undergraduates in Informatics (2019)
-2nd place in University of Science VNU-HCM Olympiad in Informatics (2019)
-ICPC Vietnam National Round Qualifier (2019)
-Participant of Vietnam Summer School of Science (VSSS) ‘07 (2019): Among 161 participants chosen from 1760 applicants nationwide.
-3rd prize in VSSS Science Hackathon (2019): Created metrics for our mini-research about love for science.
-4th prize Creative Idea Contest (CIC) (2019): Top 6 out of 200 teams.
-Top 6 in Generation Unlimited Youth Challenge by UNICEF and Saigon Innovation Hub  (2018): Top 6 (equal standings) out of 100 applicants.
-Advanced Program in Computer Science Scholarship (2018): Top 3 out of 92 students.
-Silver medalist in Ho Chi Minh City English Competition for Specialized Students (2017)
-Gold medalist in Physics in the Southern Vietnamese Regional Olympiad  (2016)
+- 4th prize in Vietnam National Olympiad for Undergraduates in Informatics (2019)
+- 2nd place in University of Science VNU-HCM Olympiad in Informatics (2019)
+- ICPC Vietnam National Round Qualifier (2019)
+- Participant of Vietnam Summer School of Science (VSSS) ‘07 (2019): Among 161 participants chosen from 1760 applicants nationwide.
+- 3rd prize in VSSS Science Hackathon (2019): Created metrics for our mini-research about love for science.
+- 4th prize Creative Idea Contest (CIC) (2019): Top 6 out of 200 teams.
+- Top 6 in Generation Unlimited Youth Challenge by UNICEF and Saigon Innovation Hub  (2018): Top 6 (equal standings) out of 100 applicants.
+- Advanced Program in Computer Science Scholarship (2018): Top 3 out of 92 students.
+- Silver medalist in Ho Chi Minh City English Competition for Specialized Students (2017)
+- Gold medalist in Physics in the Southern Vietnamese Regional Olympiad  (2016)
 
 <!-- Talks
 ======
