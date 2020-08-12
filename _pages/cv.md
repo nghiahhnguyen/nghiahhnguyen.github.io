@@ -16,9 +16,9 @@ Education
 Work experience
 ======
 * Summer 2020: Research Intern (Cancelled due to COVID-2019)
-  * École Polytechnique Fédérale de Lausanne (EPFL)
+  * LSIR, École Polytechnique Fédérale de Lausanne (EPFL)
   <!-- * Duties included: Tagging issues -->
-  * Supervisor: Professor Karl Aberer
+  * Supervisor: Thang Chi Duong
 
 * Winter 2019: Research Assistant
   * University of Science, VNU-HCM
