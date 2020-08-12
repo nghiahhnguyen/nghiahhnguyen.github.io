@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Intern (Cancelled due to COVID-2019)
+* Summer 2020: Research Intern
   * LSIR, École Polytechnique Fédérale de Lausanne (EPFL)
   <!-- * Duties included: Tagging issues -->
   * Supervisor: Thang Chi Duong
