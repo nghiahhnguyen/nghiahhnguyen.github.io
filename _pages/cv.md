@@ -36,11 +36,11 @@ Work experience
 
 **[Find a more detailed CV here](http://huunghia160799.github.io/files/CV.pdf)**
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Achievements:
 ======
