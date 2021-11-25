@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Huu-Nghia H. Nguyen - junior undergraduate from University of Science, VNU-HCM. I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), Swiss Federal Institute of Technology Lausanne (EPFL) for the summer of 2020. This is my personal website, where I will be posting more detailed information about me, as well as some opinions and interesting ideas of mine.
+I am Nghia Nguyen - a recent graduate from University of Science, VNU-HCM. 
+
+Currently I am working as an AI Resident at FPT Software. My topics of interests are Equivariant Networks and Point Clouds Processing.
+
+I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), Swiss Federal Institute of Technology Lausanne (EPFL) for the summer of 2020. This is my personal website, where I will be posting more detailed information about me, as well as some opinions and interesting ideas of mine.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
