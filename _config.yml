@@ -11,9 +11,9 @@ title                    : "Nghia Nguyen"
 title_separator          : "-"
 name                     : &name "Nghia Nguyen"
 description              : &description "personal description"
-url                      : https://huunghia160799.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nghianhhnguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huunghia160799.github.io"
+repository               : "nghianhhnguyen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YNEftmcAAAAJ&hl=en"
-  email            : "nhhnghia@apcs.vn"
+  email            : "nhhnghia@apcs.fitus.edu.vn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huunghia160799"
+  github           : "nghiahhnguyen"
   google_plus      :
   keybase          :
   instagram        :
