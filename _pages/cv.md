@@ -11,10 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Science, VNU-HCM, 2017-2021 (Expected)
+* B.S. in Computer Science, University of Science, VNU-HCM, 2017-2021
 
 Work experience
 ======
+* October 2021 - Present: AI Research Resident
+  * FPT Software
+  * Working on research problems in equivariant models and neural ordinary differential equations.
+
+* Summer 2021: Applied Scientist Intern
+  * VinBrain
+  * Improved the object detection model mAP@0.5 score over two times from a pretrained model when tested on a custom version of the Open Images v6 dataset.
+
+
 * Summer 2020: Research Intern
   * LSIR, École Polytechnique Fédérale de Lausanne (EPFL)
   <!-- * Duties included: Tagging issues -->
