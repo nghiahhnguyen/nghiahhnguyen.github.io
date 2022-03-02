@@ -1,5 +1,5 @@
 ---
-title: 'Cách mình tự ôn tập để đạt 8.5 IELTS'
+title: 'Cách mình tự ôn tập để đạt 8.5 IELTS (Vietnamese)'
 date: 2021-11-28
 permalink: /posts/ielts-85-guide/
 tags:
@@ -45,6 +45,7 @@ Về phần "lý thuyết" thì mình tập trung tham khảo từ những ngu�
 
 Khi làm các bộ đề thì nếu bạn có nhiều thời gian thì có thể làm từ các bộ đề cũ đến mới, nhưng lúc gần thi thì có lẽ nên làm các đề mới trước vì có thể nó sẽ gần với các đề thi mới hơn.
 
+Lúc ôn phần Listening và Reading thì rất dễ tự ôn vì đã có sẵn answer keys. Tuy nhiên phần Writing và Listening thì không có các official sample với band điểm cao cho từng đề. Đây là lúc lí do thứ hai mình chọn bộ đề Cambridge có tác dụng. Vì bộ đề nổi tiếng, có rất nhiều nguồn khác nhau đưa ra các sample answers với band dự kiến cho sample answers. Mình google bộ đề cần tìm và có thấy một trung tâm tiếng Anh ở Sài Gòn mình biết có chất lượng tốt là Zim đưa ra các sample answers. Khi có sample answers chất lượng rồi thì mình sẽ bắt đầu tự ôn như sau (cho cả Writing và Speaking):
 Lúc ôn phần Listening và Reading thì rất dễ tự ôn vì đã có sẵn answer keys. Tuy nhiên phần Writing và Listening thì không có các official sample với band điểm cao cho từng đề. Đây là lúc lí do thứ hai mình chọn bộ đề Cambridge có tác dụng. Vì bộ đề nổi tiếng, có rất nhiều nguồn khác nhau đưa ra các sample answers với band dự kiến cho sample answers. Mình google bộ đề cần tìm và có thấy một trung tâm tiếng Anh ở Sài Gòn mình biết có chất lượng tốt là Zim đưa ra các sample answers. Khi có sample answers chất lượng rồi thì mình sẽ bắt đầu tự ôn như sau (cho cả Writing và Speaking):
 - Nhìn đề.
 - Tự làm trước theo ý mình (nhớ những tips đã học được).
