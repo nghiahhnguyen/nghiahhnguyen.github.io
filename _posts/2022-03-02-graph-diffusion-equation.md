@@ -27,7 +27,9 @@ We have the following diffusion equation on the graph.
 $$div(G(x(t), t), t) \nabla x(t)) = \sum_{j=1}^{n} \mathbf{w}_{ij} A_{ij} \nabla x(ij)$$
 
 with 
-$G = diag(a(\mathbf{x}_{i}(t), \mathbf{x}_{j}(t),t))$ 
+
+$$G = diag(a(\mathbf{x}_{i}(t), \mathbf{x}_{j}(t),t))$$
+
 which is an $e \times e$ diagonal matrix and $a$ is a function determining the similarity (attention?) between the two vertices $\mathbf{x}_{i}$ and $\mathbf{x}_{j}$. 
 
 An additional step that needs to be made explicit is 
