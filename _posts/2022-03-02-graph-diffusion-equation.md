@@ -63,4 +63,4 @@ Vectorize this give us
 $$div(\mathbf{x}_{i}) = (w \odot \mathbf{A}) \mathbf{x} - \mathbf{x}$$
 
 Since $\mathbf{A} > 0$ only when $\mathbf{w} = 1$, we get the equation we want to prove
-$$div(\mathbf{x}_{i}) = \mathbf{A} \mathbf{x} - \mathbf{x} = (\mathbf{A} - \mathbf{I}) \mathbf{X}$$
+$$div(\mathbf{x}_{i}) = \mathbf{A} \mathbf{x} - \mathbf{x} = (\mathbf{A} - \mathbf{I}) \mathbf{x}$$
