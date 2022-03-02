@@ -42,7 +42,7 @@ $$G_{uu} \nabla x_u = \mathbf{A}_{ij} (\mathbf{x}_{j} - \mathbf{x}_{i})$$
 Note that $G \in \mathbb{R}^{e \times e}$, $\nabla \mathbf{x} \in \mathbb{R}^{e \times 1}$, $\mathbf{A} \in \mathbb{R}^{v \times v}$
 
 Substituting the above equation into the definition of $div$, we get
-$$div(\mathbf{X}_{i}) = \sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf_{ij} (\mathbf{x}_{j} - \mathbf{x}_{i})$$
+$$div(\mathbf{X}_{i}) = \sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf_{A} {ij} (\mathbf{x}_{j} - \mathbf{x}_{i})$$
 
 If we rearrange the term, the above equation becomes
 $$\sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_{j} - \sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_{i}$$
@@ -57,4 +57,4 @@ Vectorize this give us
 $$div(\mathbf{x}_{i}) = (w \odot \mathbf{A}) \mathbf{x} - \mathbf{x}$$
 
 Since $\mathbf{A} > 0$ only when $\mathbf{w} = 1$, we get the equation we want to prove
-$$div(\mathbf_{x}_{i}) = \mathbf{A} \mathbf{x} - \mathbf{x} = (\mathbf{A} - mathbf{I}) \mathbf{X}$$
+$$div(\mathbf{x}_{i}) = \mathbf{A} \mathbf{x} - \mathbf{x} = (\mathbf{A} - mathbf{I}) \mathbf{X}$$
