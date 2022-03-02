@@ -31,16 +31,16 @@ Because $G$ is a diagonal matrix, we have that
 $$\sum_{v} G_{uv} \nabla x_{v} = G_{uu} \nabla x_u$$
 Each index $u$ chosen here represent an edge in the graph, so we can find the two indices $i, j$ of the two vertices corresponding to that graph, the term becomes
 $$G_{uu} \nabla x_u = \mathbf{A}_{ij} (\mathbf{x}_j - \mathbf{x}_i)$$ 
-Note that $G \in \mathbb{R}^{e \times e}$, $\nabla \mathbf{x} \in \mathbb{R}^{e \times 1}$, $\mathbf{A} \in \mathbb{R}^{v \times v}
+Note that $G \in \mathbb{R}^{e \times e}$, $\nabla \mathbf{x} \in \mathbb{R}^{e \times 1}$, $\mathbf{A} \in \mathbb{R}^{v \times v}$
 Substituting the above equation into the definition of $div$, we get
 $$div(\mathbf{X}_i) = \sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf_{ij} (\mathbf{x}_j - \mathbf{x}_i)$$
 If we rearrange the term, the above equation becomes
 $$\sum_{j=1}^n \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_j - \sum_{j=1}^n \mathbf{w}_{ij} mathbf{A}_{ij} \mathbf{x}_i$$
 Shortening the left term while noticing that $\mathbf{w} \odot A$ is right stochastic (that means its sum is $\mathbf{I}$), we get
-$$[w \odot \mathbf{A}] \mathbf{x} - \mathbf{x}_i
+$$[w \odot \mathbf{A}] \mathbf{x} - \mathbf{x}_i$$
 Substitute this into the diffusion equation for a vertex $i$, we have
 $$\frac{\partial}{\partial t}\mathbf{x}_i(t) = [w \odot \mathbf{A}] \mathbf{x} - \mathbf{x}_i$$
 Vectorize this give us
-$$div(\mathbf{x}_i) = (w \odot \mathbf{A}) \mathbf{x} - \mathbf{x}
+$$div(\mathbf{x}_i) = (w \odot \mathbf{A}) \mathbf{x} - \mathbf{x}$$
 Since $\mathbf{A} > 0$ only when $\mathbf{w} = 1$, we get the equation we want to prove
 $$div(\mathbf_{x}_i) = \mathbf{A} \mathbf{x} - \mathbf{x} = (\mathbf{A} - mathbf{I}) \mathbf{X}$$
