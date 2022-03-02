@@ -58,15 +58,15 @@ $$\sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_{j} - \sum_{j=1}^{n}
 
 Shortening the left term while noticing that $\mathbf{w} \odot A$ is right stochastic (that means its sum is $\mathbf{I}$), we get
 
-$$[w \odot \mathbf{A}] \mathbf{x} - \mathbf{x}_{i}$$
+$$[\mathbf{w} \odot \mathbf{A}] \mathbf{x} - \mathbf{x}_{i}$$
 
 Substitute this into the diffusion equation for a vertex $i$, we have
 
-$$\frac{\partial}{\partial t}\mathbf{x}_{i}(t) = [w \odot \mathbf{A}] \mathbf{x} - \mathbf{x}_{i}$$
+$$\frac{\partial}{\partial t}\mathbf{x}_{i}(t) = [\mathbf{w} \odot \mathbf{A}] \mathbf{x} - \mathbf{x}_{i}$$
 
 Vectorize this give us
 
-$$div(\mathbf{x}_{i}) = (w \odot \mathbf{A}) \mathbf{x} - \mathbf{x}$$
+$$div(\mathbf{x}_{i}) = (\mathbf{w} \odot \mathbf{A}) \mathbf{x} - \mathbf{x}$$
 
 Since $\mathbf{A} > 0$ only when $\mathbf{w} = 1$, we get the equation we want to prove
 
