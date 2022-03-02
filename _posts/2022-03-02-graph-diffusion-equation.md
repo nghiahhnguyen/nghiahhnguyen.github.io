@@ -32,7 +32,7 @@ with
 
 $$G = diag(a(\mathbf{x}_{i}(t), \mathbf{x}_{j}(t),t))$$
 
-which is an $e \times e$ diagonal matrix and $a$ is a function determining the similarity (attention?) between the two vertices $\mathbf{x}_{i}, \mathbf{x}_{j}$. 
+which is an $e \times e$ diagonal matrix and $a$ is a function determining the similarity (attention?) between the two vertices $i$, $j$. 
 
 An additional step that needs to be made explicit is 
 
