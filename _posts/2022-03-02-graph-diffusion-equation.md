@@ -18,7 +18,7 @@ Although there is a [slide](https://www.math.fsu.edu/~bertram/lectures/Diffusion
 
 The divergence for a node $i$ is defined as
 
-$$(div(\mathbf{X}))_{i} = \sum_{j:(i, j) \in E} \mathbf{X}_{ij} = \sum_{j=1}^n \mathbf{w}_{ij} \mathbf{X}_{ij}$$
+$$(div(\mathbf{X}))_{i} = \sum_{j:(i, j) \in E} \mathbf{X}_{ij} = \sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf{X}_{ij}$$
 
 The gradient is defined as $(\nabla \mathbf{x})_{ij} = \mathbf{x}_{j} - \mathbf{x}_{i}$
 
@@ -42,7 +42,7 @@ Substituting the above equation into the definition of $div$, we get
 $$div(\mathbf{X}_{i}) = \sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf_{ij} (\mathbf{x}_{j} - \mathbf{x}_{i})$$
 
 If we rearrange the term, the above equation becomes
-$$\sum_{j=1}^n \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_{j} - \sum_{j=1}^n \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_{i}$$
+$$\sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_{j} - \sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_{i}$$
 
 Shortening the left term while noticing that $\mathbf{w} \odot A$ is right stochastic (that means its sum is $\mathbf{I}$), we get
 $$[w \odot \mathbf{A}] \mathbf{x} - \mathbf{x}_{i}$$
