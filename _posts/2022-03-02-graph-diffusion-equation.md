@@ -1,6 +1,6 @@
 ---
 title: 'Proof for the graph diffusion equation in GRAND: Graph Neural Diffusion'
-date: 2021-11-28
+date: 2022-03-02
 permalink: /posts/graph-diffusion-equation/
 tags:
   - graph neural networks
