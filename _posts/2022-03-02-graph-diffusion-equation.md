@@ -20,12 +20,15 @@ The divergence for a node $i$ is defined as
 
 $$(div(\mathbf{X}))_{i} = \sum_{j:(i, j) \in E} \mathbf{X}_{ij} = \sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf{X}_{ij}$$
 
-The gradient is defined as $(\nabla \mathbf{x})_{ij} = \mathbf{x}_{j} - \mathbf{x}_{i}$
+The gradient is defined as 
+${(\nabla \mathbf{x})}_{ij} = \mathbf{x}_{j} - \mathbf{x}_{i}$
 
 We have the following diffusion equation on the graph.
 $$div(G(x(t), t), t) \nabla x(t)) = \sum_{j=1}^{n} \mathbf{w}_{ij} A_{ij} \nabla x(ij)$$
 
-with $G = diag(a(\mathbf{x}_{i}(t), \mathbf{x}_{j}(t),t))$ - an $e \times e$ diagonal matrix and $a$ is a function determining the similarity (attention?) between the two vertices $\mathbf{x}_{i}$ and $\mathbf{x}_{j}$. 
+with 
+$G = diag(a(\mathbf{x}_{i}(t), \mathbf{x}_{j}(t),t))$ 
+which is an $e \times e$ diagonal matrix and $a$ is a function determining the similarity (attention?) between the two vertices $\mathbf{x}_{i}$ and $\mathbf{x}_{j}$. 
 
 An additional step that needs to be made explicit is 
 $$(G(\mathbf{x}(t), t) \nabla \mathbf{x}(t))_u = \sum_{v} G_{uv} \nabla x_{v}$$
