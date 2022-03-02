@@ -25,6 +25,7 @@ The gradient is defined as
 $${(\nabla \mathbf{x})}_{ij} = \mathbf{x}_{j} - \mathbf{x}_{i}$$
 
 We have the following diffusion equation on the graph.
+
 $$div(G(x(t), t), t) \nabla x(t)) = \sum_{j=1}^{n} \mathbf{w}_{ij} A_{ij} \nabla x(ij)$$
 
 with 
