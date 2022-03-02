@@ -10,4 +10,7 @@ tags:
   - graph
 ---
 
-$div(G(x(t), t), t) \nabla x(t)) = \sum_{j=1}^{n} w_{ij} A_{ij} \nabla x(ij)
+
+$div(G(x(t), t), t) \nabla x(t)) = \sum_{j=1}^{n} w_{ij} A_{ij} \nabla x(ij)$
+
+$$div(G(x(t), t), t) \nabla x(t)) = \sum_{j=1}^{n} w_{ij} A_{ij} \nabla x(ij)$$
