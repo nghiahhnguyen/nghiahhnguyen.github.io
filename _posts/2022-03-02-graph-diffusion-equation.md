@@ -25,7 +25,7 @@ The gradient is defined as $(\nabla \mathbf{x})_{ij} = \mathbf{x}_j - \mathbf{x}
 We have the following diffusion equation on the graph.
 $$div(G(x(t), t), t) \nabla x(t)) = \sum_{j=1}^{n} \mathbf{w}_{ij} A_{ij} \nabla x(ij)$$
 
-with $G = diag(a(\mathbf{x}_i(t), \mathbf{x}_j(t),t)) - an $e \times e$ diagonal matrix and $a$ is a function determining the similarity (attention?) between the two vertices $\mathbf{x}_i$ and $\mathbf{x}_j$. 
+with $G = diag(a(\mathbf{x}_i(t), \mathbf{x}_j(t),t))$ - an $e \times e$ diagonal matrix and $a$ is a function determining the similarity (attention?) between the two vertices $\mathbf{x}_i$ and $\mathbf{x}_j$. 
 
 An additional step that needs to be made explicit is 
 $$(G(\mathbf{x}(t), t) \nabla \mathbf{x}(t))_u = \sum_{v} G_{uv} \nabla x_{v}$$
