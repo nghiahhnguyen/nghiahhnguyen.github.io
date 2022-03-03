@@ -56,7 +56,7 @@ If we rearrange the term, the above equation becomes
 
 $$\sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_{j} - \sum_{j=1}^{n} \mathbf{w}_{ij} \mathbf{A}_{ij} \mathbf{x}_{i}$$
 
-Shortening the left term while noticing that $\mathbf{w} \odot A$ is right stochastic (that means its sum is $\mathbf{I}$), we get
+Shortening the left term while noticing that $\mathbf{w} \odot A$ is left stochastic (that means its sum is $\mathbf{I}$), we get
 
 $$[\mathbf{w} \odot \mathbf{A}] \mathbf{x} - \mathbf{x}_{i}$$
 
@@ -70,4 +70,4 @@ $$div(\mathbf{x}_{i}) = (\mathbf{w} \odot \mathbf{A}) \mathbf{x} - \mathbf{x}$$
 
 Since $\mathbf{A} > 0$ only when $\mathbf{w} = 1$, we get the equation we want to prove
 
-$$div(\mathbf{x}_{i}) = \mathbf{A} \mathbf{x} - \mathbf{x} = (\mathbf{A} - \mathbf{I}) \mathbf{x}$$
+$$div(\mathbf{x}) = \mathbf{A} \mathbf{x} - \mathbf{x} = (\mathbf{A} - \mathbf{I}) \mathbf{x}$$
