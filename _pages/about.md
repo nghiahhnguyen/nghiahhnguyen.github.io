@@ -10,7 +10,7 @@ redirect_from:
 
 I am Nghia Nguyen - a recent graduate from University of Science, VNU-HCM. 
 
-Currently I am working as an AI Resident at FPT Software. My topics of interests are Equivariant Networks and Point Clouds Processing.
+Currently I am working as an AI Resident at FPT Software. My topics of interests are Neural Differential Equations, Equivariant Networks, and Point Clouds Processing.
 
 I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), Swiss Federal Institute of Technology Lausanne (EPFL) for the summer of 2020. This is my personal website, where I will be posting more detailed information about me, as well as some opinions and interesting ideas of mine.
 
