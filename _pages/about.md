@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Nghia Nguyen - a recent graduate from University of Science, VNU-HCM. 
+I am Nghia (H. H.) Nguyen - a recent graduate from University of Science, VNU-HCM. 
 
 Currently I am working as an AI Resident at FPT Software. My topics of interests are Neural Differential Equations, Equivariant Networks, and Point Clouds Processing.
 
