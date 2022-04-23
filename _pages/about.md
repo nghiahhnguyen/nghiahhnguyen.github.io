@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Nghia Nguyen - a recent graduate from University of Science, VNU-HCM. 
+I am Nghia Nguyen - a recent graduate from University of Science, VNU-HCM, which is among the top 3 universities in Vietnam in terms of Computer Science. 
 
-Currently I am working as an AI Resident at FPT Software. My topics of interests are Neural Differential Equations, Equivariant Networks, and Point Clouds Processing.
+Currently I am working as an AI Research Resident at FPT Software. My topics of interests are Neural Differential Equations, Equivariant Networks, and Point Clouds Processing. I am interested in solving problem in Machine Learning from first principles, because I believe in a systematic way forward for Deep Learning. From this research direction, I want to make current Machine Learning models (esp. Deep Learning) robust to (un)known unknowns. This is important if we want to use Machine Learning for other sciences. This stems from my fascination with the possible role of AI in aiding humans' conquest of the galaxy in "I, Robot" and "Foundation" by I. Asimov.
+
+For my undergraduate thesis, I work on the problem of Human-Object Interaction Detection. This is a problem in the topic of Visual-Language Learning, which interests me because I want to bring the great things the Computer Vision and Natural Language Processing communities have done together.
 
 I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), Swiss Federal Institute of Technology Lausanne (EPFL) for the summer of 2020. This is my personal website, where I will be posting more detailed information about me, as well as some opinions and interesting ideas of mine.
 
