@@ -43,7 +43,7 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-**[Find a more detailed CV here](http://huunghia160799.github.io/files/CV.pdf)**
+**[Find a more detailed CV here](http://nghiahhnguyen.github.io/files/CV.pdf)**
 
 Publications
 ======
