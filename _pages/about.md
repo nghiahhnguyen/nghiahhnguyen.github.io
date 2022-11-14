@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 ## News
-- Excited to have my first NeurIPS 2022 paper! More details are coming soon. The paper is titled "Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method." The link to the paper is [here](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE).
+- Excited to have my first **NeurIPS 2022** paper! More details are coming soon. The paper is titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method."* The link to the paper is [here](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE).
 
 ## General
 
-**I'm looking for a Ph.D position in Fall 2023 in the topic of Machine Learning.**
+**I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning.**
 
 I am Nghia Nguyen - a recent graduate from the University of Science, VNU-HCM, among the **top 2** undergraduate institutes in Vietnam in Computer Science. I graduated within the **top 5** students of my class in the Advanced Program in Computer Science, a specialized undergraduate program similar to an Honours program.
 
 Currently, I am in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam. I am interested in combining the well-studied theoretical tools of optimization and differential equations with the empirical success of machine learning. The research agenda I would like to pursue next consists of two following directions:
-  - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that perform better, are more efficient, and more flexible?
+  - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that perform better, are more efficient and are more flexible?
   - **Neural differential equations for Scientific Modelling:** How can neural differential equations - a synthesis of neural networks and differential equations - enable new capabilities in scientific modeling?
 
 I am interested in solving problems in Machine Learning from *first principles*, because I believe in a systematic way forward for understanding and utilizing Deep Learning in different domains, in particular, *AI4Science*. From these research directions, I want to make current Machine Learning models (esp. Deep Learning) robust to (un)known unknowns. This stems from my fascination with the possible role of AI in aiding humans' conquest of the galaxy in "I, Robot" and "Foundation" by I. Asimov.
