@@ -4,9 +4,11 @@ title: "Hello there, stranger!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about/ß
   - /about.html
 ---
+
+**I'm looking for a Ph.D position in Fall 2023 in the topic of Machine Learning.**
 
 I am Nghia Nguyen - a recent graduate from the University of Science, VNU-HCM, among the **top 2** undergraduate institutes in Vietnam in Computer Science. I graduated within the **top 5** students of my class in the Advanced Program in Computer Science, a specialized undergraduate program similar to an Honours program.
 
