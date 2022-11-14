@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## News
-- Excited to have my first **NeurIPS 2022** paper! More details are coming soon. The paper is titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method."* The link to the paper is [here](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE).
+- Excited to have a **NeurIPS 2022** paper, titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! More details are coming soon. [Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE) [OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI).
 
 ## General
 
