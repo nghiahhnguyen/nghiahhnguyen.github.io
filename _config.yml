@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nghia Nguyen"
+title                    : "Nghia H. Nguyen"
 title_separator          : "-"
-name                     : &name "Nghia Nguyen"
+name                     : &name "Nghia H. Nguyen"
 description              : &description "personal description"
 url                      : https://nghiahhnguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,8 +83,8 @@ author:
   name             : "Nghia (H. H.) Nguyen - 
   /ŋɪə ŋwɪn/"
   avatar           : "fsoft-professional-photo.jpg"
-  bio              : "🍝 lover. Let's find some arbitrary meaning in this inherently meaningless world."
-  location         : "Ho Chi Minh City, Vietnam"
+  bio              : "🍝 lover. Let's create our own meaning in this inherently meaningless world."
+  location         : "Ho Chi Minh, Vietnam"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YNEftmcAAAAJ&hl=en"
