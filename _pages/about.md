@@ -14,7 +14,7 @@ redirect_from:
 
 **I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning.**
 
-I am Nghia Nguyen - a recent graduate from the University of Science, VNU-HCM, among the **top 2** undergraduate institutes in Vietnam in Computer Science. I graduated within the **top 5** students of my class in the Advanced Program in Computer Science, a specialized undergraduate program similar to an Honours program.
+I am Nghia Nguyen (full name Nghia Ho Huu Nguyen or Ho Huu Nghia Nguyen) - a recent graduate from the University of Science, VNU-HCM, among the **top 2** undergraduate institutes in Vietnam in Computer Science. I graduated within the **top 5** students of my class in the Advanced Program in Computer Science, a specialized undergraduate program similar to an Honours program.
 
 Currently, I am in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam. I am interested in combining the well-studied theoretical tools of optimization and differential equations with the empirical success of machine learning. The research agenda I would like to pursue next consists of two following directions:
   - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that perform better, are more efficient and are more flexible?
