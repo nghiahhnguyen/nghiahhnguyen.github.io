@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 ## News
-- Excited to have a **NeurIPS 2022** paper, titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! More details are coming soon. [\[Personal link\]](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE) [\[OpenReview\]](https://openreview.net/forum?id=-OfK_B9Q5hI)
+- Excited to have a **NeurIPS 2022** paper, titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! More details are coming soon. \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] \[[OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI)\]
+
+## Mentors
+- Dr. Thieu N. Vo, Faculty of Mathematics and Statistics, Ton Duc Thang University \[[website](https://sites.google.com/tdtu.edu.vn/vongocthieu)\])
+- Dr. Tan M. Nguyen, Department of Mathematics, UCLA \[[website](https://tanmnguyen89.github.io/)\])
 
 ## General
 
