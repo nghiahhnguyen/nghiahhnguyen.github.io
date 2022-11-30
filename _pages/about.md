@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## News
+- I'm currently at NeurIPS 2022 in-person week at New Orleans. Please let me know if you want to chat!
 - Excited to have a **NeurIPS 2022** paper, titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! More details are coming soon. \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] \[[OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI)\]
 
 ## Mentors
