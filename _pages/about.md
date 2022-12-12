@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+# title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -22,8 +22,11 @@ redirect_from:
 ## Education
 
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
+  
   Advanced Program in Computer Science, Faculty of Information Technology
+  
   BS, Computer Science
+
   - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science
   - I graduated within *top 5* of my cohort with a CGPA of 3.97/4.0
 
