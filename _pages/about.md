@@ -11,24 +11,21 @@ redirect_from:
 - I'm currently at NeurIPS 2022 in-person week at New Orleans. Please let me know if you want to chat!
 - Excited to have a **NeurIPS 2022** paper, titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! More details are coming soon. \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] \[[OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI)\]
 
+## General
+
+**I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning and AI/ML for Sciences.**
+
 ## Mentors
 - Dr. Thieu N. Vo, Faculty of Mathematics and Statistics, Ton Duc Thang University \[[website](https://sites.google.com/tdtu.edu.vn/vongocthieu)\]
 - Dr. Tan M. Nguyen, Department of Mathematics, UCLA \[[website](https://tanmnguyen89.github.io/)\]
 
-## General
-
-**I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning.**
-
 ## Education
 
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
-  
-  Advanced Program in Computer Science, Faculty of Information Technology
-  
-  BS, Computer Science
-
-  - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science
-  - I graduated within *top 5* of my cohort with a CGPA of 3.97/4.0
+  - BS, Computer Science
+  - Advanced Program in Computer Science, Faculty of Information Technology (similar to an Honors program)
+  - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
+  - I graduated within *top 5* of my cohort with a CGPA of 3.97/4.0.
 
 ## Research interests
 Currently, I am in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with Dr. Thieu N. Vo and Dr. Tan M. Nguyen. I am interested in combining the well-studied theoretical tools of optimization and differential equations with the empirical success of machine learning. The research agenda I would like to pursue next consists of two following directions:
