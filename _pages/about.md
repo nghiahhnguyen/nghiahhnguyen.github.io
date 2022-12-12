@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,13 +19,22 @@ redirect_from:
 
 **I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning.**
 
-I am Nghia Nguyen (full name Nghia Ho Huu Nguyen or Ho Huu Nghia Nguyen) - a recent graduate from the University of Science, VNU-HCM, among the **top 2** undergraduate institutes in Vietnam in Computer Science. I graduated within the **top 5** students of my class in the Advanced Program in Computer Science, a specialized undergraduate program similar to an Honours program.
+## Education
 
+**University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
+  Advanced Program in Computer Science, Faculty of Information Technology
+  BS, Computer Science
+  - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science
+  - I graduated within *top 5* of my cohort with a CGPA of 3.97/4.0
+
+## Research interests
 Currently, I am in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with Dr. Thieu N. Vo and Dr. Tan M. Nguyen. I am interested in combining the well-studied theoretical tools of optimization and differential equations with the empirical success of machine learning. The research agenda I would like to pursue next consists of two following directions:
   - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that perform better, are more efficient and are more flexible?
   - **Neural differential equations for Scientific Modelling:** How can neural differential equations - a synthesis of neural networks and differential equations - enable new capabilities in scientific modeling?
 
-I am interested in solving problems in Machine Learning from *first principles*, because I believe in a systematic way forward for understanding and utilizing Deep Learning in different domains, in particular, *AI4Science*. From these research directions, I want to make current Machine Learning models (esp. Deep Learning) robust to (un)known unknowns. This stems from my fascination with the possible role of AI in aiding humans' conquest of the galaxy in "I, Robot" and "Foundation" by I. Asimov.
+I am interested in solving problems in Machine Learning from *first principles*, because I believe in a systematic way forward for understanding and utilizing Deep Learning in different domains, in particular, *AI4Science*. From these research directions, I want to make current Machine Learning models (esp. Deep Learning) robust to (un)known unknowns. This stems from my fascination with the possible role of AI in aiding humans' understanding of physics in "I, Robot" and "Foundation" by I. Asimov.
+
+## Previous research experience
 
 For my undergraduate thesis (2021), I worked on the problem of *Human-Object Interaction Detection*. This is a problem in the topic of *Visual-Language Reasoning*, which interested me because I wanted to explore the synthesis of the profound progress made by the Computer Vision and Natural Language Processing communities.
 
