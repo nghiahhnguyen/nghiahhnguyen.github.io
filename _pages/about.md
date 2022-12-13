@@ -22,10 +22,10 @@ redirect_from:
 ## Education
 
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
-  - BS, Computer Science
+  - BS, Computer Science, Advisor: [Prof. Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
   - Advanced Program in Computer Science, Faculty of Information Technology (similar to an Honors program)
-  - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
   - I graduated within *top 5* of my cohort with a CGPA of 3.97/4.0.
+  - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
 
 ## Research interests
 Currently, I am in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with Dr. Thieu N. Vo and Dr. Tan M. Nguyen. I am interested in combining the well-studied theoretical tools of optimization and differential equations with the empirical success of machine learning. The research agenda I would like to pursue next consists of two following directions:
