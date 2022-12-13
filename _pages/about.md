@@ -16,8 +16,8 @@ redirect_from:
 **I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning and AI/ML for Sciences.**
 
 ## Mentors
-- Dr. Thieu N. Vo, Faculty of Mathematics and Statistics, Ton Duc Thang University \[[website](https://sites.google.com/tdtu.edu.vn/vongocthieu)\]
-- Dr. Tan M. Nguyen, Department of Mathematics, UCLA \[[website](https://tanmnguyen89.github.io/)\]
+- [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu), Faculty of Mathematics and Statistics, Ton Duc Thang University.
+- [Dr. Tan M. Nguyen](https://tanmnguyen89.github.io/), Department of Mathematics, UCLA.
 
 ## Education
 
