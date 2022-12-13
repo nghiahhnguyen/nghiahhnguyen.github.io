@@ -23,7 +23,7 @@ redirect_from:
 
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
   - BS, Computer Science, Advisor: [Prof. Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
-  - Advanced Program in Computer Science, Faculty of Information Technology (similar to an Honors program).
+  - [Advanced Program in Computer Science](https://www.ctdb.hcmus.edu.vn/en/academic-programs/advanced-program-in-computer-science/), one of the 10 innovative programs created in a national project to renovate university education by the Vietnamese Ministry of Education.
   - I graduated within *top 5* of my cohort with a CGPA of 3.97/4.0.
   - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
 
