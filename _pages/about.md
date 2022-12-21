@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 ## News
-- I'm currently at NeurIPS 2022 in-person week at New Orleans. Please let me know if you want to chat!
-- Excited to have a **NeurIPS 2022** paper, titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! TLDR: we introduce Nesterov accelerated gradients into Neural ODEs to make Neural ODEs more efficient without sacrificing accuracy. \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] \[[OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI)\]
+- I'm currently at NeurIPS 2022 in-person week in New Orleans. Please let me know if you want to chat!
+- I'm excited to have a **NeurIPS 2022** paper titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! TLDR: we introduce Nesterov accelerated gradients into Neural ODEs to make Neural ODEs more efficient without sacrificing accuracy. \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] \[[OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI)\]
 
 ## General
 
@@ -23,22 +23,22 @@ redirect_from:
 
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
   - BS, Computer Science, Advisor: [Prof. Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
-  - [Advanced Program in Computer Science](https://www.ctdb.hcmus.edu.vn/en/academic-programs/advanced-program-in-computer-science/), one of the 10 innovative programs created in a national project to renovate university education by the Vietnamese Ministry of Education.
-  - I graduated within *top 5* of my cohort with a CGPA of 3.97/4.0.
+  - [Advanced Program in Computer Science](https://www.ctdb.hcmus.edu.vn/en/academic-programs/advanced-program-in-computer-science/), one of the ten innovative programs created in a national project to renovate university education by the Vietnamese Ministry of Education.
+  - I graduated within the *top 5/92* of my cohort with a CGPA of 3.97/4.0.
   - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
 
 ## Research interests
 Currently, I am in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with Dr. Thieu N. Vo and Dr. Tan M. Nguyen. I am interested in combining the well-studied theoretical tools of optimization and differential equations with the empirical success of machine learning. The research agenda I would like to pursue next consists of two following directions:
-  - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that perform better, are more efficient and are more flexible?
-  - **Neural differential equations for Scientific Modelling:** How can neural differential equations - a synthesis of neural networks and differential equations - enable new capabilities in scientific modeling?
+  - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that perform better, are more efficient, and are more flexible?
+  - **Neural differential equations for Scientific Modeling:** How can neural differential equations - a synthesis of neural networks and differential equations - enable new capabilities in scientific modeling?
 
-I am interested in solving problems in Machine Learning from *first principles*, because I believe in a systematic way forward for understanding and utilizing Deep Learning in different domains, in particular, *AI4Science*. From these research directions, I want to make current Machine Learning models (esp. Deep Learning) robust to (un)known unknowns. This stems from my fascination with the possible role of AI in aiding humans' understanding of physics in "I, Robot" and "Foundation" by I. Asimov.
+I am interested in solving problems in Machine Learning from *first principles*, because I believe in a systematic way forward for understanding and utilizing Deep Learning in different domains, particularly, *AI4Science*. From these research directions, I want to make current Machine Learning models (esp. Deep Learning) robust to (un)known unknowns. This interest stems from my fascination with the possible role of AI in aiding humans' understanding of physics in "I, Robot" and "Foundation" by I. Asimov.
 
 ## Previous research experience
 
-For my undergraduate thesis (2021), I worked on the problem of *Human-Object Interaction Detection*. This is a problem in the topic of *Visual-Language Reasoning*, which interested me because I wanted to explore the synthesis of the profound progress made by the Computer Vision and Natural Language Processing communities.
+For my undergraduate thesis (2021), I worked on the problem of *Human-Object Interaction Detection*. The thesis is on the topic of *Visual-Language Reasoning*, which interested me because I wanted to explore the synthesis of the profound progress made by the Computer Vision and Natural Language Processing communities.
 
-In the summer of 2020, I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), École Polytechnique Fédérale de Lausanne (EPFL). I worked on the topic of utilizing *Graph Neural Networks* for SQL Query Optimizers.
+In the summer of 2020, I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), École Polytechnique Fédérale de Lausanne (EPFL). I worked on utilizing *Graph Neural Networks* for SQL Query Optimizers.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
