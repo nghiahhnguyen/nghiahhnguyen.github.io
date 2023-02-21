@@ -14,7 +14,7 @@ When I read the GRAND: Graph Neural Diffusion [(arxiv)](https://www.arxiv.org/ab
 
 $$\frac{\partial}{\partial t} \mathbf{x}(t) = (\mathbf{A}(\mathbf{x}(t)) - \mathbf{I})\mathbf{x}(t)$$
 
-Although there is a [slide](https://www.math.fsu.edu/~bertram/lectures/Diffusion.pdf) online about the diffusion equation on graph, the formulation is not identical, so I decided to write a detailed post to derive the equation in the GRAND paper.
+Although there is a [slide](https://www.math.fsu.edu/~bertram/lectures/Diffusion.pdf) online about the diffusion equation on graph, the formulation is not identical, so I decided to write a detail post to derive the equation in the GRAND paper.
 
 The divergence for a node $i$ is defined as
 
@@ -32,7 +32,7 @@ with
 
 $$G = diag(a(\mathbf{x}_{i}(t), \mathbf{x}_{j}(t),t))$$
 
-which is an $e \times e$ diagonal matrix and $a$ is a function determining the similarity between the two vertices $i$, $j$. 
+which is an $e \times e$ diagonal matrix and $a$ is a function determining the similarity (attention?) between the two vertices $i$, $j$. 
 
 An additional step that needs to be made explicit is 
 
