@@ -15,6 +15,8 @@ tags:
 Our work at NeurIPS 2022, titled "**Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method**," focuses on improving the efficiency of Neural Ordinary Differential Equations, which is a recent type of machine learning model at the intersection of neural networks and differential equations.
 
 Why should we care about Neural Ordinary Differential Equations? First, from the side of differential equations, many tasks in robotics, automation, and sciences use the language of differential equations. These differential equations are usually human-engineered. Neural differential equations are a new direction in applying the latest advances of machine learning for effectively and efficiently learning these differential equations from data. Second, from the side of machine learning, differential equations allow the modeling of continuous trajectories, which is particularly suited for time series modeling tasks. A setting where current machine learning models would struggle is irregular time series; for example, the observations of the time series are at irregular intervals, for example a series of observations at time 0, 0.1, 1, 3.5, 10, 15.
+
+![](Physionet-example.png)
   
 
 ## Neural Ordinary Differential Equations (Neural ODEs)
@@ -30,6 +32,8 @@ Newton's second law has the second derivative, but we can also use only the firs
 $$\frac{dx(t)}{dt} = F_{\theta}(x(t), t, \theta)$$
   
 where $x(t)$ is a feature (representation of the data) we care about (e.g., an image) and $F_{\theta}$ is a neural network with parameters $\theta$. When you are using Neural ODEs for some predictions, the ODE is solved with an ODE solver. The ODE solver solves the ODE through an iteration process. [Here](https://raw.githubusercontent.com/pranabendra/articles/master/Euler-method/images/Euler.png) is the illustration of Euler's method, a simple solver.
+
+![Euler's method for solving ODEs](euler-method)
 
 Another perspective to think about Neural ODEs is through looking at skip connection in Residual Networks:
 
