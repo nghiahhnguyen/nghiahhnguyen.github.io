@@ -48,6 +48,7 @@ Despite these new advantages, Neural ODEs can be computational expensive when th
 
 ## An optimization perspective of Neural ODEs
 Gradient descent is one of the most common algorithm for optimizing some objective $F$ with respect to a variable $x$
+
 $$\min_x F(x)$$
 
 An iteration of gradient descent is defined as follows, $x_k$ is the value of the variable $x$ at the iteration $k$
