@@ -14,7 +14,7 @@ tags:
 
 Our work at NeurIPS 2022, titled "**Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method**," focuses on improving the efficiency of Neural Ordinary Differential Equations, which is a recent type of machine learning model at the intersection of neural networks and differential equations.
 
-Why should we care about Neural Ordinary Differential Equations? First, from the side of differential equations, many tasks in robotics, automation, and sciences use the language of differential equations. These differential equations are usually human-engineered. Neural differential equations are a new direction in applying the latest advances of machine learning for effectively and efficiently learning these differential equations from data. Second, from the side of machine learning, differential equations allow the modeling of continuous trajectories, which is particularly suited for time series modeling tasks. A setting where current machine learning models would struggle is irregular time series; for example, the observations of the time series are at irregular intervals, for example a series of observations at time 0, 0.1, 1, 3.5, 10, 15.
+Why should we care about Neural Ordinary Differential Equations? First, from the side of differential equations, many tasks in robotics, automation, and sciences use the language of differential equations. These differential equations are usually human-engineered. Neural differential equations are a new direction in applying the latest advances of machine learning for effectively and efficiently learning these differential equations from data. Second, from the side of machine learning, differential equations allow the modeling of continuous trajectories, which is particularly suited for time series modeling tasks. A setting where current machine learning models would struggle is irregular time series; for example, the observations of the time series are at irregular intervals, for example, the following figure show an example of a set of features for a patient in the Physionet dataset, which show how observation can be irregularly sampled across time for different features.
 
 ![](/posts/Physionet-example.png)
   
@@ -88,7 +88,7 @@ Our work also introduce differential-algebraic equations into the field of neura
 ## Experiments
 We perform extensive experiments in time series, generative modelling, and image classification to show that our model reduce the number of function evaluations without reducing accuracies.
 
-Here is the test accuracy and mean NFEs over all epochs of NODE-RNN, GHBNODE-RNN and our method GNesterovNODE-RNN on the Human Activity benchmark (Per-time-point classification)
+Here is the test accuracy and mean NFEs over all epochs of NODE-RNN, GHBNODE-RNN and our method GNesterovNODE-RNN on the Human Activity benchmark (Per-time-point classification).
 
 ![HumanViz](/posts/human_viz.png)
 
