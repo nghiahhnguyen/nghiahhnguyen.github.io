@@ -1,5 +1,5 @@
 ---
-title: 'Nesterov\'s Momentum meets Neural Ordinary Differential Equations'
+title: 'Nesterov Momentum meets Neural Ordinary Differential Equations'
 date: 2022-02-24
 permalink: /posts/nesterov-neural-ode/
 tags:
@@ -9,10 +9,6 @@ tags:
   - Nesterov's accelerated gradients
   - NeurIPS
 ---
-
-#blog #research #machine-learning #differential-equations 
-
-The blog post for [[Nesterov Neural ODEs]].
 
 ## Motivation
 
