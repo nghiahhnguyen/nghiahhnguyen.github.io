@@ -88,19 +88,19 @@ Our work also introduce differential-algebraic equations into the field of neura
 ## Experiments
 We perform extensive experiments in time series, generative modelling, and image classification to show that our model reduce the number of function evaluations without reducing accuracies.
 
-Test accuracy \textcolor{black}{and mean NFEs over all epochs} of NODE-RNN, GHBNODE-RNN and our method GNesterovNODE-RNN on the Human Activity benchmark (Per-time-point classification)
+Here is the test accuracy and mean NFEs over all epochs of NODE-RNN, GHBNODE-RNN and our method GNesterovNODE-RNN on the Human Activity benchmark (Per-time-point classification)
 
 ![HumanViz](/posts/human_viz.png)
 
-Contrasting the NFEs and the validation negative ELBO of the FFJORD-NODE, the FFJORD-HBNODE, and our FFJORD-GNesterovNODE for the variational inference task with a continuous normalizing flow model, i.e. FFJORD, on the binarized MNIST dataset (generative modelling).
+Next, we contrast the NFEs and the validation negative ELBO of the FFJORD-NODE, the FFJORD-HBNODE, and our FFJORD-GNesterovNODE for the variational inference task with a continuous normalizing flow model, i.e. FFJORD, on the binarized MNIST dataset (generative modelling).
 
 ![Continuous Normalizing Flow with MNIST](/posts/cnf_mnist_viz.png)
 
-Contrasting the NFEs and losses of NODE-based baselines and our methods on the Walker2D dataset (Irregular time series regresion).
+Next, we compare the NFEs and losses of NODE-based baselines and our methods on the Walker2D dataset (Irregular time series regresion).
 
 ![Walker2d](/posts/walker2d.png)
 
-Contrasting the NFEs and accuracy of \textcolor{black}{NODE-based baselines} and our methods NesterovNODE/GNesterovNODE on the CIFAR10 dataset (Image classification).
+Finally, we show the NFEs and accuracy of NODE-based baselines and our methods NesterovNODE/GNesterovNODE on the CIFAR10 dataset (Image classification).
 
 ![CIFAR10](/posts/cifar.png)
 
