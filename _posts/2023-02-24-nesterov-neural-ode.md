@@ -28,7 +28,7 @@ The blog post for [[Nesterov Neural ODEs]].
   where $x(t)$ is the position of an object at the time $t$, $m$ is the weight, and $\frac{d^2x(t)}{dt^2}$ is the acceleration - the second derivative of position with respect to time (the first derivative is the velocity).
   - Newton's second law has the second derivative, but we can also use only the first derivative in different ODE, which is how Neural ODEs came to be:
   $$\frac{dx(t)}{dt} = F_{\theta}(x(t), t, \theta)$$
-  where $x(t)$ is a feature (representation of the data) we care about (e.g., an image) and $F_{\theta}$ is a neural network with parameters $\theta$. When you are using Neural ODEs for some predictions, the ODE is solved with an ODE solver. The ODE solver solves the ODE through an iteration process. Here is the illustration of Euler's method, a simple solver.
+  where $x(t)$ is a feature (representation of the data) we care about (e.g., an image) and $F_{\theta}$ is a neural network with parameters $\theta$. When you are using Neural ODEs for some predictions, the ODE is solved with an ODE solver. The ODE solver solves the ODE through an iteration process. [Here](https://raw.githubusercontent.com/pranabendra/articles/master/Euler-method/images/Euler.png) is the illustration of Euler's method, a simple solver.
   - Another perspective to think about Neural ODEs is through looking at skip connection in Residual Networks:
   $$x_{l+1} = x_{l} + s * F_{\theta}(x_l, \theta)$$
   where $x_l$ is the feature at layer $l$, $F_{\theta}$ is the neural network layer, $s=1$ is a variable we introduce. Under some conditions, taking $s \rightarrow 0$ would give us an ODE similar to Neural ODEs.
