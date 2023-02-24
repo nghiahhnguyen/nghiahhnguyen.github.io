@@ -87,13 +87,13 @@ Our work also introduce differential-algebraic equations into the field of neura
 ## Experiments
 We perform extensive experiments in time series, generative modelling, and image classification to show that our model reduce the number of function evaluations without reducing accuracies.
 
-![CIFAR10](/posts/cifar.pdf)
+![CIFAR10](/posts/cifar.png)
 
-![HumanViz](/posts/human_viz.pdf)
+![HumanViz](/posts/human_viz.png)
 
-![Continuous Normalizing Flow with MNIST](/posts/cnf_mnist_viz.pdf)
+![Continuous Normalizing Flow with MNIST](/posts/cnf_mnist_viz.png)
 
-![Walker2d](/posts/walker2d.pdf)
+![Walker2d](/posts/walker2d.png)
 
 ## Conclusion
 Neural Differential Equations are a new topic in machine learning that leverage the power of differential equations for improved modeling capabilities through the power of differential equations. In our NeurIPS 2022 paper, we focus on improving the efficiency of Neural ODEs. We achieve this by introducing Nesterov's Accelerated Gradients to Neural ODEs, which has an improved convergence rate compared to the gradient descent. We show that our model, (G)NesterovNODEs are efficient by significantly reducing the NFE without compromising the accuracy of the models compared to previous Neural ODEs based models.
