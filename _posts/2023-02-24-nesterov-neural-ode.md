@@ -14,7 +14,7 @@ tags:
 
 Our work at NeurIPS 2022, titled "**Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method**," focuses on improving the efficiency of Neural Ordinary Differential Equations, which is a recent type of machine learning model at the intersection of neural networks and differential equations.
 
-Why should we care about Neural Ordinary Differential Equations? First, from the side of differential equations, many tasks in robotics, automation, and sciences use the language of differential equations. These differential equations are usually human-engineered. Neural differential equations are a new direction in applying the latest advances of machine learning for effectively and efficiently learning these differential equations from data. Second, from the side of machine learning, differential equations allow the modeling of continuous trajectories, which is particularly suited for time series modeling tasks. A setting where current machine learning models would struggle is irregular time series; for example, the observations of the time series are at irregular intervals such as 0, 0.1, 1, 3.5, 10, 15.
+Why should we care about Neural Ordinary Differential Equations? First, from the side of differential equations, many tasks in robotics, automation, and sciences use the language of differential equations. These differential equations are usually human-engineered. Neural differential equations are a new direction in applying the latest advances of machine learning for effectively and efficiently learning these differential equations from data. Second, from the side of machine learning, differential equations allow the modeling of continuous trajectories, which is particularly suited for time series modeling tasks. A setting where current machine learning models would struggle is irregular time series; for example, the observations of the time series are at irregular intervals, for example a series of observations at time 0, 0.1, 1, 3.5, 10, 15.
   
 
 ## Neural Ordinary Differential Equations (Neural ODEs)
@@ -62,9 +62,9 @@ With this new perspective, we can use other gradient-based methods to make the O
 
 $$\frac{d^2x}{dt^2} + \frac{3}{t} \frac{dx}{dt} = - \nabla F(x(t))$$
 
-We modified the Nesterov ODE for better computational advantages: 
-- Convert the system to an equivalent system of first order ODEs
-- Removing the $\frac{3}{t}$ term from the differential equations through some algebraic manipulations
+We modified the Nesterov ODE for better computational advantages with the following modifications: 
+- Converting the system to an equivalent system of first order ODEs.
+- Removing the $\frac{3}{t}$ term from the differential equations through some algebraic manipulations.
 
 The result is the following system of differential-algebraic equations (including both differential and algebraic equations), which we call Nesterov Neural ODEs (or NesterovNODEs for short).
 
@@ -82,6 +82,14 @@ Our work also introduce differential-algebraic equations into the field of neura
 
 ## Experiments
 We perform extensive experiments in time series, generative modelling, and image classification to show that our model reduce the number of function evaluations without reducing accuracies.
+
+![CIFAR10](cifar.pdf)
+
+![HumanViz](human_viz.pdf)
+
+![Continuous Normalizing Flow with MNIST](cnf_mnist_viz.pdf)
+
+![Walker2d](walker2d.pdf)
 
 ## Conclusion
 Neural Differential Equations are a new topic in machine learning that leverage the power of differential equations for improved modeling capabilities through the power of differential equations. In our NeurIPS 2022 paper, we focus on improving the efficiency of Neural ODEs. We achieve this by introducing Nesterov's Accelerated Gradients to Neural ODEs, which has an improved convergence rate compared to the gradient descent. We show that our model, (G)NesterovNODEs are efficient by significantly reducing the NFE without compromising the accuracy of the models compared to previous Neural ODEs based models.
