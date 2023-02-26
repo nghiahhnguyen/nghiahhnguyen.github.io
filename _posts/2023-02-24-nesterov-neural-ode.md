@@ -12,7 +12,7 @@ tags:
 
 ## Motivation
 
-Our work at NeurIPS 2022, titled "**Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method**," focuses on improving the efficiency of Neural Ordinary Differential Equations, which is a recent type of machine learning model at the intersection of neural networks and differential equations.
+Our work at NeurIPS 2022, titled ["**Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method**,"](https://openreview.net/forum?id=-OfK_B9Q5hI) focuses on improving the efficiency of Neural Ordinary Differential Equations, which is a recent type of machine learning model at the intersection of neural networks and differential equations.
 
 Why should we care about Neural Ordinary Differential Equations? First, from the side of differential equations, many tasks in robotics, automation, and sciences use the language of differential equations. These differential equations are usually human-engineered. Neural differential equations are a new direction in applying the latest advances of machine learning for effectively and efficiently learning these differential equations from data. Second, from the side of machine learning, differential equations allow the modeling of continuous trajectories, which is particularly suited for time series modeling tasks. A setting where current machine learning models would struggle is irregular time series; for example, the following figure shows an example of a set of features for a patient in the Physionet dataset, which show how observation can be irregularly sampled across time for different features.
 
