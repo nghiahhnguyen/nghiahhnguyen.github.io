@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 ## News
+- I'm starting a PhD journey in Fall 2023 at the Computer and Information Science Department, University of Pennsylvania.
 - My current timezone is ICT (GMT+7).
 <!-- - I'm currently at NeurIPS 2022 in-person week in New Orleans. Please let me know if you want to chat! -->
 - I'm excited to have a **NeurIPS 2022** paper titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! TLDR: we introduce Nesterov accelerated gradients into Neural ODEs to make Neural ODEs more efficient without sacrificing accuracy. \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] \[[OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI)\]
 
-## General
+<!-- ## General -->
 
-**I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning and AI/ML for Sciences.**
+<!-- **I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning and AI/ML for Sciences.** -->
 
 ## Mentors
 - [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu), Faculty of Mathematics and Statistics, Ton Duc Thang University.
