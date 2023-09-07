@@ -37,6 +37,7 @@ I am interested in solving problems in Machine Learning from *first principles*,
 Previously, I was in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu) and [Prof. Tan M. Nguyen](https://tanmnguyen89.github.io/). 
 
 For my undergraduate thesis (2021), I worked on the problem of *Human-Object Interaction Detection*. The thesis is on the topic of *Visual-Language Reasoning*, which interested me because I wanted to explore the synthesis of the profound progress made by the Computer Vision and Natural Language Processing communities.
+
 In the summer of 2020, I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), École Polytechnique Fédérale de Lausanne (EPFL). I worked on utilizing *Graph Neural Networks* for SQL Query Optimizers.
 
 ## More about me
