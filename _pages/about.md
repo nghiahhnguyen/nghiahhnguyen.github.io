@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## News
-- I'm starting a PhD journey in Fall 2023 at the Computer and Information Science Department, University of Pennsylvania, advised by Prof René Vidal.
+- I'm starting a PhD journey in Fall 2023 at the Computer and Information Science Department, University of Pennsylvania, advised by [Prof René Vidal](http://www.vision.jhu.edu/rvidal.html).
 - My current timezone is ICT (GMT+7).
 <!-- - I'm currently at NeurIPS 2022 in-person week in New Orleans. Please let me know if you want to chat! -->
 - I'm excited to have a **NeurIPS 2022** paper titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! TLDR: we introduce Nesterov accelerated gradients into Neural ODEs to make Neural ODEs more efficient without sacrificing accuracy. \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] \[[OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI)\]
@@ -17,25 +17,26 @@ redirect_from:
 
 <!-- **I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning and AI/ML for Sciences.** -->
 
-## Mentors
-- [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu), Faculty of Mathematics and Statistics, Ton Duc Thang University.
-- [Dr. Tan M. Nguyen](https://tanmnguyen89.github.io/), Department of Mathematics, UCLA.
-
 ## Education
+**University of Pennsylvania - Philadelphia PA**
+- PhD, Computer and Information Science (2023-present), Advisor: [Prof René Vidal](http://www.vision.jhu.edu/rvidal.html).
+
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
-  - BS, Computer Science, Advisor: [Assoc. Prof. Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
+  - BS, Computer Science (2017-2021), Advisor: [Assoc. Prof. Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
   - [Advanced Program in Computer Science](https://www.ctdb.hcmus.edu.vn/en/academic-programs/advanced-program-in-computer-science/), one of the ten innovative programs created in a national project to renovate university education by the Vietnamese Ministry of Education.
   - I graduated summa cum laude within the *top 5/92* of my cohort with a CGPA of 3.97/4.0.
   - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
 
 ## Research interests
-Currently, I am in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with Dr. Thieu N. Vo and Dr. Tan M. Nguyen. I am interested in combining the well-studied theoretical tools of optimization and differential equations with the empirical success of machine learning. The research agenda I would like to pursue next consists of two following directions:
+I am interested in combining the well-studied theoretical tools of optimization and differential equations with the empirical success of machine learning. The research agenda I would like to pursue next consists of two following directions:
   - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that perform better, are more efficient, and are more flexible?
   - **Neural differential equations for Scientific Modeling:** How can neural differential equations - a synthesis of neural networks and differential equations - enable new capabilities in scientific modeling?
 
 I am interested in solving problems in Machine Learning from *first principles*, because I believe in a systematic way forward for understanding and utilizing Deep Learning in different domains, particularly, *AI4Science*. From these research directions, I want to make current Machine Learning models (esp. Deep Learning) robust to (un)known unknowns. This interest stems from my fascination with the possible role of AI in aiding humans' understanding of physics in "I, Robot" and "Foundation" by I. Asimov.
 
 ## Previous research experience
+Previously, I was in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu) and [Prof. Tan M. Nguyen](https://tanmnguyen89.github.io/). 
+
 For my undergraduate thesis (2021), I worked on the problem of *Human-Object Interaction Detection*. The thesis is on the topic of *Visual-Language Reasoning*, which interested me because I wanted to explore the synthesis of the profound progress made by the Computer Vision and Natural Language Processing communities.
 In the summer of 2020, I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), École Polytechnique Fédérale de Lausanne (EPFL). I worked on utilizing *Graph Neural Networks* for SQL Query Optimizers.
 
