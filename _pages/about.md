@@ -28,8 +28,8 @@ redirect_from:
 
 ## Research interests
 I am interested in combining the well-studied theoretical tools of optimization and differential equations with the empirical success of machine learning. The research agenda I would like to pursue next consists of two following directions:
-  - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that perform better, are more efficient, and are more flexible?
-  - **Neural differential equations for Scientific Modeling:** How can neural differential equations - a synthesis of neural networks and differential equations - enable new capabilities in scientific modeling?
+  - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that have *better generalization* error, are *more efficient*, and have *better expressive power*?
+  - **Neural differential equations for Scientific Modeling:** How can neural differential equations - a synthesis of neural networks and differential equations - enable new capabilities in scientific modeling? What are the right way to parameterize dynamical systems such that our models can faithfully simulate the underlying systems?
 
 I am interested in solving problems in Machine Learning from *first principles*, because I believe in a systematic way forward for understanding and utilizing Deep Learning in different domains, particularly, *AI4Science*. From these research directions, I want to make current Machine Learning models (esp. Deep Learning) robust to (un)known unknowns. This interest stems from my fascination with the possible role of AI in aiding humans' understanding of physics in "I, Robot" and "Foundation" by I. Asimov.
 
