@@ -20,10 +20,10 @@ redirect_from:
 
 ## Education
 **University of Pennsylvania - Philadelphia, PA, US**
-- PhD, Computer and Information Science (2023-present), Advisor: [Prof René Vidal](http://www.vision.jhu.edu/rvidal.html).
+- PhD, Computer and Information Science (2023-present), Advisor: [René Vidal](http://www.vision.jhu.edu/rvidal.html).
 
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
-  - BS, Computer Science (2017-2021), Advisor: [Assoc. Prof. Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
+  - BS, Computer Science (2017-2021), Advisor: [Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
   - [Advanced Program in Computer Science](https://www.ctdb.hcmus.edu.vn/en/academic-programs/advanced-program-in-computer-science/), one of the ten innovative programs created in a national project to renovate university education by the Vietnamese Ministry of Education.
   - I graduated summa cum laude within the *top 5/92* of my cohort with a CGPA of 3.97/4.0.
   - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
@@ -34,7 +34,7 @@ I am interested in leveraging optimization and algebraic structures (e.g., the l
   - **Understanding the emergence of these algebraic structures through a causal mediation framework:** The fact that these algebraic structures exist is not random but a deep correspondence to certain independence conditions in the real world. As an example, certain semantic concepts are orthogonal in the latent space of LLMs because they are compositional in real life and thus are reflected in the training data (e.g., color and shape of an object). What are all the structures that exist and how can we prove their emergence through a simple next-token loss?
 
 ## Previous research experience
-Previously, I was in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu) and [Prof. Tan M. Nguyen](https://tanmnguyen89.github.io/). 
+Previously, I was in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with [Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu) and [Tan M. Nguyen](https://tanmnguyen89.github.io/). 
 
 For my undergraduate thesis (2021), I worked on the problem of *Human-Object Interaction Detection*. The thesis is on the topic of *Visual-Language Reasoning*, which interested me because I wanted to explore the synthesis of the profound progress made by the Computer Vision and Natural Language Processing communities.
 
