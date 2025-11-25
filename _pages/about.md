@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 ## Updates
+- 2025-11: I have a new preprint titled *"Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification"*! \[[Link](/publication/2025-09-27-hierarchical-sparse-coding-reliable-concepts)\]
+- 2025-09: I have a new paper under review titled *"SSD: Sparse Semantic Defense against Semantic Adversarial Attacks to Image Classifiers"*! \[[Link](/publication/2025-09-27-ssd-sparse-semantic-defense)\]
 - I'm starting a PhD journey in Fall 2023 at the Computer and Information Science Department, University of Pennsylvania, advised by [Prof René Vidal](http://www.vision.jhu.edu/rvidal.html).
 <!-- - I'm currently at NeurIPS 2022 in-person week in New Orleans. Please let me know if you want to chat! -->
 - I'm excited to have a **NeurIPS 2022** paper titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! TLDR: we introduce Nesterov accelerated gradients into Neural ODEs to make Neural ODEs more efficient without sacrificing accuracy. \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] \[[OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI)\]
