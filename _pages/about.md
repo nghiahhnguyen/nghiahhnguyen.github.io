@@ -25,9 +25,9 @@ redirect_from:
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
   - BS, Computer Science (2017-2021), Advisor: [Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
 
-  <!-- - [Advanced Program in Computer Science](https://www.ctdb.hcmus.edu.vn/en/academic-programs/advanced-program-in-computer-science/), one of the ten innovative programs created in a national project to renovate university education by the Vietnamese Ministry of Education.
-  - I graduated summa cum laude within the *top 5/92* of my cohort with a CGPA of 3.97/4.0.
-  - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science. -->
+  <!-- - [Advanced Program in Computer Science](https://www.ctdb.hcmus.edu.vn/en/academic-programs/advanced-program-in-computer-science/), one of the ten innovative programs created in a national project to renovate university education by the Vietnamese Ministry of Education. -->
+  <!-- - I graduated summa cum laude within the *top 5/92* of my cohort with a CGPA of 3.97/4.0. -->
+  <!-- - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science. -->
 
 ## Research interests
 I am interested in leveraging optimization and algebraic structures (e.g., the linear structures of the semantic concepts in LLMs) for trustworthy machine learning (interpretability and adversarial robustness). The research agenda I would like to pursue next consists of the following two directions:
