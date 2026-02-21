@@ -14,7 +14,7 @@ I am interested in leveraging optimization and algebraic structures (e.g., the l
   - **Understanding the emergence of these algebraic structures through optimization objective/dynamics:** The fact that these algebraic structures exist is not random but a deep correspondence to certain independence conditions in the real world. As an example, certain semantic concepts are orthogonal in the latent space of LLMs because they are compositional in real life and thus are reflected in the training data (e.g., color and shape of an object). What are all the structures that exist and how can we prove their emergence through a simple softmax-based loss?
 
 ## Updates
-- 2025-11: I have a new preprint titled *"Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification"*! \[[Link](/publication/2025-09-27-hierarchical-sparse-coding-reliable-concepts)\]
+<!-- - 2025-11: I have a new preprint titled *"Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification"*! \[[Link](/publication/2025-09-27-hierarchical-sparse-coding-reliable-concepts)\] -->
 - 2025-09: I have a new paper under review titled *"SSD: Sparse Semantic Defense against Semantic Adversarial Attacks to Image Classifiers"*! \[[Link](/publication/2025-09-27-ssd-sparse-semantic-defense)\]
 - I'm starting a PhD journey in Fall 2023 at the Computer and Information Science Department, University of Pennsylvania, advised by [René Vidal](http://www.vision.jhu.edu/rvidal.html).
 <!-- - I'm currently at NeurIPS 2022 in-person week in New Orleans. Please let me know if you want to chat! -->
