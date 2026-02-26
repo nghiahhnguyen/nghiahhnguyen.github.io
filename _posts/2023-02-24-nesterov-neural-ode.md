@@ -1,7 +1,8 @@
 ---
+layout: post
 title: 'Nesterov Momentum meets Neural Ordinary Differential Equations'
 date: 2023-02-24
-permalink: /posts/nesterov-neural-ode/
+description: Introducing Nesterov accelerated gradients into Neural ODEs to improve efficiency without sacrificing accuracy (NeurIPS 2022).
 tags:
   - machine learning
   - differential equations
@@ -17,7 +18,7 @@ Our work at NeurIPS 2022, titled ["**Improving Neural Ordinary Differential Equa
 
 Why should we care about Neural Ordinary Differential Equations? First, from the side of differential equations, many tasks in robotics, automation, and sciences use the language of differential equations. These differential equations are usually human-engineered. Neural differential equations are a new direction in applying the latest advances of machine learning for effectively and efficiently learning these differential equations from data. Second, from the side of machine learning, differential equations allow the modeling of continuous trajectories, which is particularly suited for time series modeling tasks. A setting where current machine learning models would struggle is irregular time series; for example, the following figure shows an example of a set of features for a patient in the Physionet dataset, which show how observation can be irregularly sampled across time for different features.
 
-![](/posts/Physionet-example.png)
+![](/assets/img/posts/Physionet-example.png)
   
 
 ## Neural Ordinary Differential Equations (Neural ODEs)
@@ -34,7 +35,7 @@ $$\frac{dx(t)}{dt} = F_{\theta}(x(t), t, \theta)$$
   
 where $x(t)$ is a feature (representation of the data) we care about (e.g., an image) and $F_{\theta}$ is a neural network with parameters $\theta$. When you are using Neural ODEs for some predictions, the ODE is solved with an ODE solver. The ODE solver solves the ODE through an iteration process. [Here](https://raw.githubusercontent.com/pranabendra/articles/master/Euler-method/images/Euler.png) is the illustration of Euler's method, a simple solver.
 
-![Euler's method for solving ODEs](/posts/euler-method.png)
+![Euler's method for solving ODEs](/assets/img/posts/euler-method.png)
 
 Another perspective to think about Neural ODEs is through looking at skip connection in Residual Networks:
 
@@ -91,19 +92,19 @@ We perform extensive experiments in time series, generative modelling, and image
 
 Here is the test accuracy and mean NFEs over all epochs of NODE-RNN, GHBNODE-RNN and our method GNesterovNODE-RNN on the Human Activity benchmark (Per-time-point classification).
 
-![HumanViz](/posts/human_viz.png)
+![HumanViz](/assets/img/posts/human_viz.png)
 
 Next, we contrast the NFEs and the validation negative ELBO of the FFJORD-NODE, the FFJORD-HBNODE, and our FFJORD-GNesterovNODE for the variational inference task with a continuous normalizing flow model, i.e. FFJORD, on the binarized MNIST dataset (generative modelling).
 
-![Continuous Normalizing Flow with MNIST](/posts/cnf_mnist_viz.png)
+![Continuous Normalizing Flow with MNIST](/assets/img/posts/cnf_mnist_viz.png)
 
 Next, we compare the NFEs and losses of NODE-based baselines and our methods on the Walker2D dataset (Irregular time series regresion).
 
-![Walker2d](/posts/walker2d.png)
+![Walker2d](/assets/img/posts/walker2d.png)
 
 Finally, we show the NFEs and accuracy of NODE-based baselines and our methods NesterovNODE/GNesterovNODE on the CIFAR10 dataset (Image classification).
 
-![CIFAR10](/posts/cifar.png)
+![CIFAR10](/assets/img/posts/cifar.png)
 
 ## Conclusion
 Neural Differential Equations are a new topic in machine learning that leverage the power of differential equations for improved modeling capabilities through the power of differential equations. In our NeurIPS 2022 paper, we focus on improving the efficiency of Neural ODEs. We achieve this by introducing Nesterov's Accelerated Gradients to Neural ODEs, which has an improved convergence rate compared to the gradient descent. We show that our model, (G)NesterovNODEs are efficient by significantly reducing the NFE without compromising the accuracy of the models compared to previous Neural ODEs based models.

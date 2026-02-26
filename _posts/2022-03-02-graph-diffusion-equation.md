@@ -1,7 +1,8 @@
 ---
+layout: post
 title: 'Proof for the graph diffusion equation in GRAND: Graph Neural Diffusion'
 date: 2022-03-02
-permalink: /posts/graph-diffusion-equation/
+description: A detailed derivation of the graph diffusion equation used in the GRAND paper by Chamberlain et al.
 tags:
   - graph neural networks
   - diffusion
