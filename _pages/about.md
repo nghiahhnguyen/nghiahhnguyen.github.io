@@ -1,46 +1,28 @@
 ---
+layout: about
+title: about
 permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/ß
-  - /about.html
+subtitle: PhD Student, <a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Philadelphia, PA</p>
+    <p><a href="mailto:nghianhh@seas.upenn.edu">nghianhh@seas.upenn.edu</a></p>
+
+news: true
+selected_papers: true
+social: true
 ---
 
-## Research interests
-I am interested in leveraging optimization and algebraic structures (e.g., the linear structures of the semantic concepts in LLMs) for trustworthy machine learning (interpretability and adversarial robustness). The research agenda I would like to pursue next consists of the following two directions:
-  - **Utilizing algebraic structures to design new algorithms in interpretability:** Given that we know certain structures exist in the latent space of LLMs (e.g., linear representations, hierarchical orthogonality), how can we design new algorithms that take into account this prior knowledge to recover semantic concepts that are *more reliable* and *more faithful* to the underlying concepts used by the model?
-  - **Understanding the emergence of these algebraic structures through optimization objective/dynamics:** The fact that these algebraic structures exist is not random but a deep correspondence to certain independence conditions in the real world. As an example, certain semantic concepts are orthogonal in the latent space of LLMs because they are compositional in real life and thus are reflected in the training data (e.g., color and shape of an object). What are all the structures that exist and how can we prove their emergence through a simple softmax-based loss?
+I am a PhD student in the [Computer and Information Science Department](https://www.cis.upenn.edu/) at the University of Pennsylvania, advised by [René Vidal](http://www.vision.jhu.edu/rvidal.html). My first name, Nghia, is pronounced like "near" but you replace the leading "n" with "ng". 
+I did by B.S. in Computer Science at the University of Science, Vietnam National University – Ho Chi Minh City, advised by [Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
+Previously, I was in the AI Residency program at FPT Software AI Center, working with [Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu) and [Tan M. Nguyen](https://tanmnguyen89.github.io/).
+In Summer 2020, I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), EPFL, working on Graph Neural Networks for SQL query optimization.
 
-## Updates
-- 2025-11: I have a new preprint titled *"Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification"*! \[[Link](/publication/2025-09-27-hierarchical-sparse-coding-reliable-concepts)\] Updated: Accepted to CVPR 2026!
-- 2025-09: I have a new paper under review titled *"SSD: Sparse Semantic Defense against Semantic Adversarial Attacks to Image Classifiers"*! \[[Link](/publication/2025-09-27-ssd-sparse-semantic-defense)\]
-- I'm starting a PhD journey in Fall 2023 at the Computer and Information Science Department, University of Pennsylvania, advised by [René Vidal](http://www.vision.jhu.edu/rvidal.html).
-<!-- - I'm currently at NeurIPS 2022 in-person week in New Orleans. Please let me know if you want to chat! -->
-- I'm excited to have a **NeurIPS 2022** paper titled *"Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method"*! TLDR: we introduce Nesterov accelerated gradients into Neural ODEs to make Neural ODEs more efficient without sacrificing accuracy. \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] \[[OpenReview](https://openreview.net/forum?id=-OfK_B9Q5hI)\]
+My research focuses on leveraging optimization and algebraic structures (e.g., linear representations in LLMs) for trustworthy machine learning, specifically interpretability and adversarial robustness. I pursue two directions:
 
-<!-- ## General -->
-
-<!-- **I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning and AI/ML for Sciences.** -->
-
-## Education
-**University of Pennsylvania - Philadelphia, PA, US**
-- PhD, Computer and Information Science (2023-present), Advisor: [René Vidal](http://www.vision.jhu.edu/rvidal.html).
-
-**University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
-  - BS, Computer Science (2017-2021), Advisor: [Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
-
-<!-- - [Advanced Program in Computer Science](https://www.ctdb.hcmus.edu.vn/en/academic-programs/advanced-program-in-computer-science/), one of the ten innovative programs created in a national project to renovate university education by the Vietnamese Ministry of Education. -->
-<!-- - I graduated summa cum laude within the *top 5/92* of my cohort with a CGPA of 3.97/4.0. -->
-<!-- - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science. -->
-
-## Previous research experience
-Previously, I was in the AI Residency program at FPT Software AI Center, one of the only two AI residency programs in Vietnam, working with [Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu) and [Tan M. Nguyen](https://tanmnguyen89.github.io/). 
-
-For my undergraduate thesis (2021), I worked on the problem of *Human-Object Interaction Detection*. The thesis is on the topic of *Visual-Language Reasoning*, which interested me because I wanted to explore the synthesis of the profound progress made by the Computer Vision and Natural Language Processing communities.
-
-In the summer of 2020, I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), École Polytechnique Fédérale de Lausanne (EPFL). I worked on utilizing *Graph Neural Networks* for SQL Query Optimizers.
-
-## More about me
-- My full name (in the Vietnamese order) is Nguyen Ho Huu Nghia (Nguyễn Hồ Hữu Nghĩa - with diacritical marks).
+- **Algebraic structures for interpretability:** Given that linear and hierarchical structures exist in the latent space of neural networks, how can we design algorithms that exploit this prior knowledge to recover semantic concepts that are more reliable and faithful to the model?
+- **Emergence of structures via optimization:** Why do these algebraic structures arise? I aim to prove their emergence from training objectives, connecting compositional structure in real-world data to geometry in representation space.
