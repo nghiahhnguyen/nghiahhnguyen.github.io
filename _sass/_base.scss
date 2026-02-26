@@ -467,6 +467,17 @@ footer.sticky-bottom {
   }
 }
 
+.footer-social {
+  display: inline;
+  margin-left: 4px;
+
+  a {
+    margin: 0 2px;
+    font-size: 1rem;
+    vertical-align: middle;
+  }
+}
+
 // CV
 
 .cv {

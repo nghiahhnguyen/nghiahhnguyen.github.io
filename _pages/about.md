@@ -14,7 +14,7 @@ profile:
 
 news: true
 selected_papers: true
-social: true
+social: false
 ---
 
 I am a PhD student in the [Computer and Information Science Department](https://www.cis.upenn.edu/) at the University of Pennsylvania, advised by [René Vidal](http://www.vision.jhu.edu/rvidal.html). 
