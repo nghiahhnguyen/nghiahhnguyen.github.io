@@ -4,6 +4,9 @@ permalink: /health-sync/
 title: Obsidian Health Sync by Nghia H. Nguyen
 description: A personal tool that copies my own Google Health data into my private Obsidian notes.
 nav: false
+# Google's OAuth review compares the consent-screen app name against this page's
+# <title>, so it must be the app name alone, with no " | site name" suffix.
+exact_title: true
 ---
 
 **Obsidian Health Sync by Nghia H. Nguyen** is a personal, single-user tool that copies my own health data from Google Health into my private [Obsidian](https://obsidian.md) notebook.
