@@ -4,6 +4,9 @@ permalink: /health-sync/privacy/
 title: Privacy policy — Obsidian Health Sync by Nghia H. Nguyen
 description: How Obsidian Health Sync by Nghia H. Nguyen handles health data.
 nav: false
+# Reachable for Google's OAuth links, but kept out of search results.
+noindex: true
+sitemap: false
 ---
 
 This privacy policy covers **Obsidian Health Sync by Nghia H. Nguyen**, described on its [home page]({{ '/health-sync/' | relative_url }}).

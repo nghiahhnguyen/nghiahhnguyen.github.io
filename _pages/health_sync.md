@@ -7,6 +7,9 @@ nav: false
 # Google's OAuth review compares the consent-screen app name against this page's
 # <title>, so it must be the app name alone, with no " | site name" suffix.
 exact_title: true
+# Reachable for Google's OAuth links, but kept out of search results.
+noindex: true
+sitemap: false
 ---
 
 **Obsidian Health Sync by Nghia H. Nguyen** is a personal, single-user tool that copies my own health data from Google Health into my private [Obsidian](https://obsidian.md) notebook.

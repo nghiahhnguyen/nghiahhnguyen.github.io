@@ -4,6 +4,9 @@ permalink: /health-sync/terms/
 title: Terms of service — Obsidian Health Sync by Nghia H. Nguyen
 description: Terms of service for Obsidian Health Sync by Nghia H. Nguyen.
 nav: false
+# Reachable for Google's OAuth links, but kept out of search results.
+noindex: true
+sitemap: false
 ---
 
 These terms cover **Obsidian Health Sync by Nghia H. Nguyen**, described on its [home page]({{ '/health-sync/' | relative_url }}).
