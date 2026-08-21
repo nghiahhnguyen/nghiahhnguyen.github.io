@@ -28,3 +28,5 @@ My research focuses on leveraging optimization and algebraic structures (e.g., l
 
 - **Algebraic structures for interpretability:** Given that linear and hierarchical structures exist in the latent space of neural networks, how can we design algorithms that exploit this prior knowledge to recover semantic concepts that are more reliable and faithful to the model?
 - **Emergence of structures via optimization:** Why do these algebraic structures arise? I aim to prove their emergence from training objectives, connecting compositional structure in real-world data to geometry in representation space.
+
+If you have any feedback or suggestions on my research, talks, or collaborations, feel free to leave [anonymous feedback]({{ '/feedback/' | relative_url }}).
