@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Philadelphia, PA</p>
     <p><a href="mailto:nghianhh@seas.upenn.edu">nghianhh@seas.upenn.edu</a></p>
+    <p><a href="/feedback/">feedback (anonymous)</a></p>
 
 news: true
 selected_papers: true
