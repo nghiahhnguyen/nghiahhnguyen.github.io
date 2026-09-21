@@ -18,9 +18,9 @@ selected_papers: true
 social: false
 ---
 
-I am a PhD student in the [Computer and Information Science Department](https://www.cis.upenn.edu/) at the University of Pennsylvania, advised by [René Vidal](http://www.vision.jhu.edu/rvidal.html). 
+I am a PhD student in the [Computer and Information Science Department](https://www.cis.upenn.edu/) at the University of Pennsylvania, advised by [René Vidal](http://www.vision.jhu.edu/rvidal.html).
 <!-- My first name, Nghia, is pronounced like "near" but you replace the leading "n" with "ng".  -->
-I did by B.S. in Computer Science at the University of Science, Vietnam National University – Ho Chi Minh City, advised by [Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
+I did my B.S. in Computer Science at the University of Science, Vietnam National University – Ho Chi Minh City, advised by [Minh-Triet Tran](https://www.fit.hcmus.edu.vn/~tmtriet/).
 Previously, I was in the AI Residency program at FPT Software AI Center, working with [Thieu N. Vo](https://researchportal.bath.ac.uk/en/persons/thieu-vo/) and [Tan M. Nguyen](https://tanmnguyen89.github.io/).
 In Summer 2020, I was a Research Intern at the Distributed Information Systems Laboratory (LSIR), EPFL, working on Graph Neural Networks for SQL query optimization.
 
