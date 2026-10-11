@@ -10,7 +10,6 @@ profile:
   image_circular: false
   more_info: >
     <p>Nghia (/ŋɪə/): pronounced like "near", replacing "n" with "ng".</p>
-    <p>Philadelphia, PA</p>
     <p><a href="mailto:nghianhh@seas.upenn.edu">nghianhh@seas.upenn.edu</a></p>
 
 news: true
