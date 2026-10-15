@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my PhD at the Computer and Information Science Department, University of Pennsylvania, advised by [René Vidal](http://www.vision.jhu.edu/rvidal.html).
+Starting my PhD at the Computer and Information Science Department, University of Pennsylvania, advised by [René Vidal](https://vidal-lab.github.io/).
