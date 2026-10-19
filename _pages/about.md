@@ -18,7 +18,7 @@ social: false
 ---
 I am a PhD student in the [Computer and Information Science Department](https://www.cis.upenn.edu/) at the University of Pennsylvania, advised by [René Vidal](https://vidal-lab.github.io/).
 
-My research focuses on the **emergence and utilization of compositional structure** in foundation models for trustworthy machine learning. Rather than treating latent spaces as unstructured black boxes, I study how models encode compositional primitives—from hierarchical semantic taxonomies to algorithmic reasoning—and pursue two core questions:
+My research focuses on the **emergence and utilization of compositional structure** in foundation models for trustworthy machine learning. Rather than treating latent spaces as unstructured black boxes, I study how models encode compositional primitives (from hierarchical semantic taxonomies to algorithmic reasoning) and pursue two core questions:
 
 - **Principled concept recovery & verification:** How can we exploit hierarchical and compositional priors in representation space to extract reliable, faithful explanations and defend models against semantic vulnerabilities? (e.g., [HCEP](#nguyen2026hcep), [SSD]({{ '/publications/#nguyen2026ssd' | relative_url }})).
 - **Learning dynamics & structural emergence:** Under what conditions do training objectives induce compositional geometry? I work on proving how multi-modal and self-supervised training dynamics translate compositional structure in data into geometric properties in representation space (e.g., [HAS](#nguyen2026hcld)).
