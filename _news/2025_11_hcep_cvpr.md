@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *"[Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification]({{ '/#nguyen2026hcep' | relative_url }})"* has been accepted to **CVPR 2026**! [\[arXiv\]](https://arxiv.org/abs/2602.11448).
+Our paper *"[Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification]({{ '/#nguyen2026hcep' | relative_url }})"* has been accepted to **CVPR 2026**! [\[Paper Details\]]({{ '/#nguyen2026hcep' | relative_url }}) [\[arXiv\]](https://arxiv.org/abs/2602.11448).
