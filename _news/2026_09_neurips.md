@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *"[On the Provable Multi-Modal Transfer of Hierarchical Concept Structure in CLIP Embeddings]({{ '/#nguyen2026hcld' | relative_url }})"* has been accepted to **NeurIPS 2026**! [\[Paper Details\]]({{ '/#nguyen2026hcld' | relative_url }}) [\[PDF\]](/assets/pdf/HAS.pdf)
+Our paper *"[On the Provable Multi-Modal Transfer of Hierarchical Concept Structure in CLIP Embeddings]({{ '/#nguyen2026hcld' | relative_url }})"* has been accepted to **NeurIPS 2026**! [\[PDF\]](/assets/pdf/HAS.pdf)
