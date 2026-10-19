@@ -667,8 +667,27 @@ footer.sticky-bottom {
 
 // Publications
 
+@keyframes target-highlight {
+  0% {
+    box-shadow: 0 0 0 3px var(--global-theme-color);
+  }
+  100% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+}
+
 .publications {
   margin-top: 2rem;
+
+  div[id],
+  ol.bibliography li {
+    scroll-margin-top: 80px;
+  }
+
+  div[id]:target,
+  ol.bibliography li:has(:target) {
+    animation: target-highlight 2s ease;
+  }
 
   h1 {
     color: var(--global-theme-color);

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint: *"SSD: Sparse Semantic Defense against Semantic Adversarial Attacks to Image Classifiers"* is under review.
+New preprint: *"[SSD: Sparse Semantic Defense against Semantic Adversarial Attacks to Image Classifiers]({{ '/publications/#nguyen2026ssd' | relative_url }})"* is under review. [\[Paper Details\]]({{ '/publications/#nguyen2026ssd' | relative_url }})
